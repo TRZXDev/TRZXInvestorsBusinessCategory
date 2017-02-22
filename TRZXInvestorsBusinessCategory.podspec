@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "TRZXInvestorsBusinessCategory"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "TRZXInvestorsBusinessCategory."
 
   # This description is used to generate tags and improve search results.
@@ -92,7 +92,6 @@ TRZXInvestorsBusinessCategory
   #
 
   s.source_files  = "TRZXInvestorsBusinessCategory/TRZXInvestorsBusinessCategory/**/*.{h,m}"
-  s.resources    = 'TRZXInvestorsBusinessCategory/TRZXInvestorsBusinessCategory/**/*.{xib,png}'
 
   #s.exclude_files = "Classes/Exclude"
 
